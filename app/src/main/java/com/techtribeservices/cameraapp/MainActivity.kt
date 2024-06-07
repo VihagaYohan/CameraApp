@@ -194,7 +194,7 @@ class MainActivity : AppCompatActivity() {
                             }
 
                             override fun onConfigureFailed(session: CameraCaptureSession) {
-                                TODO("Not yet implemented")
+
                             }
 
                         },
